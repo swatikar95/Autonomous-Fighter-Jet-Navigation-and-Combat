@@ -2,13 +2,30 @@
 Developed an explainable deep reinforcement learning agent in a custom simulation environment to solve complex, multi-objective tasks with transparent decision-making.
 
 
+<p align="center">
+  <figure style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="media/media1.gif" alt="GIF 1" width="300">
+    <figcaption>Caption for GIF 1</figcaption>
+  </figure>
+  <figure style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="media/media1.gif" alt="GIF 2" width="300">
+    <figcaption>Caption for GIF 2</figcaption>
+  </figure>
+  <figure style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="media/media1.gif" alt="GIF 3" width="300">
+    <figcaption>Caption for GIF 3</figcaption>
+  </figure>
+</p>
+
+
+
 <!-- <video width="600" controls>
   <source src="media/media1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <video width="300" controls>
     <source src="media/media1.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -21,10 +38,10 @@ Developed an explainable deep reinforcement learning agent in a custom simulatio
     <source src="media/media1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</p>
+</p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <figure>
     <video width="300" controls>
       <source src="media/media1.mp4" type="video/mp4">
@@ -47,7 +64,7 @@ Developed an explainable deep reinforcement learning agent in a custom simulatio
     <figcaption>Caption for Video 3</figcaption>
   </figure>
 </p>
-
+ -->
 
 
 ### Contributions
