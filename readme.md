@@ -1,7 +1,7 @@
 ### Project
 Developed an explainable deep reinforcement learning agent in a custom simulation environment to solve complex, multi-objective tasks with transparent decision-making.
 
-Figure 1 represents the initial stages of agent's performance (Green triangle: Agent, Red triangle: Enemy, Blue circle: Target), Figure 2 represents the agent's performance after 640 episodes, Figure 3 represents the agent's performance when it has learnt completely about the environment
+Figure 1 (Left) represents the initial stages of agent's performance (Green triangle: Agent, Red triangle: Enemy, Blue circle: Target), Figure 2 (Middle) represents the agent's performance after 640 episodes, Figure 3 (Right) represents the agent's performance when it has learnt completely about the environment
 
 <p align="center">
   <img src="media/media1.gif" alt="GIF 1" width="250">
