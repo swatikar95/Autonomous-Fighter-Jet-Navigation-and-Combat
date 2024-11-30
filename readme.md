@@ -1,15 +1,17 @@
 ### Project
 Developed an explainable deep reinforcement learning agent in a custom simulation environment to solve complex, multi-objective tasks with transparent decision-making.
 
+Figure 1 represents the initial stages of agent's performance  (Green triangle: Agent, Red triangle: Enemy, Blue circle: Target), Figure 2 represents the agent's performance after 640 episodes, Figure 3 represents the agent's performance when it has learnt completely about the environment
+
 <p align="center">
   <img src="media/media1.gif" alt="GIF 1" width="250">
-  <img src="media/media1.gif" alt="GIF 2" width="250">
-  <img src="media/media1.gif" alt="GIF 3" width="250">
+  <img src="media/media2.gif" alt="GIF 2" width="250">
+  <img src="media/media3.gif" alt="GIF 3" width="250">
 </p>
 
 
 
-<p align="center">
+<!-- <p align="center">
   <figure style="display: inline-block; text-align: center; margin: 10px;">
     <img src="media/media1.gif" alt="GIF 1" width="300">
     <figcaption>Caption for GIF 1</figcaption>
@@ -22,7 +24,7 @@ Developed an explainable deep reinforcement learning agent in a custom simulatio
     <img src="media/media1.gif" alt="GIF 3" width="300">
     <figcaption>Caption for GIF 3</figcaption>
   </figure>
-</p>
+</p> -->
 
 
 
@@ -76,7 +78,6 @@ Developed an explainable deep reinforcement learning agent in a custom simulatio
 
 ### Contributions
 
-- Explainability through Factual and Counterfactual Analysis: By examining both factual and counterfactual actions and rewards, the project enhances the transparency of the AI agent's decision-making process. This analysis provides critical insights into why certain actions are chosen over others, allowing users to comprehend the reasoning behind specific decisions, especially in complex scenarios requiring quick responses.
 
 - Sophisticated Reward Function Design: Developed a comprehensive reward function that balances multiple competing objectives, such as efficiency and resource management. This function integrates various factors that drive effective learning, encouraging the agent to optimize both task completion and the use of available resources.
 
