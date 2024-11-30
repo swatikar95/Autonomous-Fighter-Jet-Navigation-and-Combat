@@ -2,10 +2,36 @@
 Developed an explainable deep reinforcement learning agent in a custom simulation environment to solve complex, multi-objective tasks with transparent decision-making.
 
 
-<video width="600" controls>
+<!-- <video width="600" controls>
   <source src="media/media1.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
+
+
+
+<p align="center">
+  <figure>
+    <video width="300" controls>
+      <source src="media/media1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Caption for Video 1</figcaption>
+  </figure>
+  <figure>
+    <video width="300" controls>
+      <source src="media/media1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Caption for Video 2</figcaption>
+  </figure>
+  <figure>
+    <video width="300" controls>
+      <source src="media/media1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Caption for Video 3</figcaption>
+  </figure>
+</p>
 
 
 
