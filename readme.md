@@ -2,9 +2,9 @@
 Developed an explainable deep reinforcement learning agent in a custom simulation environment to solve complex, multi-objective tasks with transparent decision-making.
 
 <p align="center">
-  <img src="media/media1.gif" alt="GIF 1" width="300">
-  <img src="media/media1.gif" alt="GIF 2" width="300">
-  <img src="media/media1.gif" alt="GIF 3" width="300">
+  <img src="media/media1.gif" alt="GIF 1" width="250">
+  <img src="media/media1.gif" alt="GIF 2" width="250">
+  <img src="media/media1.gif" alt="GIF 3" width="250">
 </p>
 
 
