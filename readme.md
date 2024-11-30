@@ -91,6 +91,7 @@ Figure 1 represents the initial stages of agent's performance (Green triangle: A
 
 ### Author Details
 Name: Swati Kar
+
 Email: kars@clarkson.edu
 
 ### Supervisor 
