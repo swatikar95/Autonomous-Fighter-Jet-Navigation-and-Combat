@@ -1,9 +1,15 @@
 ### Project
-Autonomous Fighter Jet Navigation and Combat
-Contribution: Game environment is designed, reward function is fully customized for this environment, hyperparameters are tuned according to the environment
+Developed an explainable deep reinforcement learning agent in a custom simulation environment to solve complex, multi-objective tasks with transparent decision-making.
+
+
+<video width="600" controls>
+  <source src="media/media1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
+### Contributions
 
 - Explainability through Factual and Counterfactual Analysis: By examining both factual and counterfactual actions and rewards, the project enhances the transparency of the AI agent's decision-making process. This analysis provides critical insights into why certain actions are chosen over others, allowing users to comprehend the reasoning behind specific decisions, especially in complex scenarios requiring quick responses.
 
