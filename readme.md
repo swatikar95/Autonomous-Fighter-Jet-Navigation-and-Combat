@@ -1,7 +1,7 @@
 ### Project
 Developed an explainable deep reinforcement learning agent in a custom simulation environment to solve complex, multi-objective tasks with transparent decision-making.
 
-Figure 1 represents the initial stages of agent's performance  (Green triangle: Agent, Red triangle: Enemy, Blue circle: Target), Figure 2 represents the agent's performance after 640 episodes, Figure 3 represents the agent's performance when it has learnt completely about the environment
+Figure 1 represents the initial stages of agent's performance (Green triangle: Agent, Red triangle: Enemy, Blue circle: Target), Figure 2 represents the agent's performance after 640 episodes, Figure 3 represents the agent's performance when it has learnt completely about the environment
 
 <p align="center">
   <img src="media/media1.gif" alt="GIF 1" width="250">
@@ -87,6 +87,7 @@ Figure 1 represents the initial stages of agent's performance  (Green triangle: 
 
 - Advancement in Explainable AI for Multi-Objective Problems: The project demonstrates that DRL can effectively address complex, multi-objective problems. The insights gained from the reward function and decision-making analysis contribute to the broader understanding and improvement of explainability in AI-driven processes.
 
+- Explainability through Factual and Counterfactual Analysis: By examining both factual and counterfactual actions and rewards, the project enhances the transparency of the AI agent's decision-making process. This analysis provides critical insights into why certain actions are chosen over others, allowing users to comprehend the reasoning behind specific decisions, especially in complex scenarios requiring quick responses.
 
 ### Author Details
 Name: Swati Kar
