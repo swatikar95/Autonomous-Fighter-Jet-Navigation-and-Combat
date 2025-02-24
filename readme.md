@@ -103,5 +103,9 @@ Name: Dr. Mahesh Banavar
 3. Conda activate environment `conda activate jetFight_`
 4. Install all dependencise `pip install -r requirements.txt`
 
+## Citation
 
+If you find our work useful, please consider citing:
+
+S. Kar, S. Dey, M. K. Banavar, and S. K. Sakib, “Fighter Jet Navigation and Combat using Deep Reinforcement Learning with Explainable AI,” *arXiv preprint*, arXiv:2502.13373, 2025. [Online]. Available: [https://arxiv.org/abs/2502.13373](https://arxiv.org/abs/2502.13373)
 
